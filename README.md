@@ -35,7 +35,7 @@ Jika Anda ingin menjalankan atau mereproduksi eksperimen ini di komputer lokal A
 
 1. **Clone Repository ini:**
    ```bash
-   git clone [https://github.com/username-kamu/project-cnn-vs-transfer-learning.git](https://github.com/username-kamu/project-cnn-vs-transfer-learning.git)
+   git clone [https://github.com/fathurnaufal24/project-cnn-vs-transfer-learning.git](https://github.com/fathurnaufal24/project-cnn-vs-transfer-learning.git)
    cd project-cnn-vs-transfer-learning
 Install Semua Library yang Dibutuhkan:Pastikan Anda sudah menginstal Python (disarankan versi 3.8+). Jalankan perintah berikut untuk menginstal dependencies:Bashpip install -r requirements.txt
 Jalankan Jupyter Notebook:Buka file notebook di folder notebook/ menggunakan Jupyter Lab/Notebook atau VS Code:Bashjupyter notebook notebook/cnn_vs_transfer_learning.ipynb
